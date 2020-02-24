@@ -1,0 +1,14 @@
+1. Colaborar en el repositorio remoto, crea uno para ello.
+2. Clónalo su repositorio.
+3. Añadir varios ficheros con algún contenido.
+4. Añadir los cambios a la zona de intercambio temporal.
+5. Hacer un commit con el mensaje “subida ejercicio avanzado.”
+6. Subir los cambios al repositorio remoto.
+7. Haz una bifurcación del repositorio remoto anterior.
+8. Clonar el repositorio de nuevo.
+9. Crear una nueva rama y activarla.
+10.Añade varios ficheros con contenido.
+11.Añadir los cambios a la zona de intercambio temporal.
+12.Hacer un commit con el mensaje “cambios en la nueva rama.”
+13.Subir los cambios de la rama creada en el punto 9 al repositorio remoto.
+14.Hacer un Pull Request de los cambios en la rama.
